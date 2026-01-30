@@ -1,0 +1,9 @@
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.csproj.AssemblyReference.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.AssemblyInfoInputs.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.AssemblyInfo.cs
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.csproj.CoreCompileInputs.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net48\NodeFasadeG1.gha
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net48\NodeFasadeG1.pdb
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.gha
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net48\NodeFasadeG1.pdb

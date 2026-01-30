@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouc7rWHWz0c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geftg\\source\\repos\\NodeFasadeG1\\NodeFasadeG1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geftg\\.nuget\\packages\\grasshopper\\8.0.23304.9001\\grasshopper.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\geftg\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512"
+  ],
+  "logs": []
+}

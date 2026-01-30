@@ -1,0 +1,14 @@
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.csproj.AssemblyReference.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.AssemblyInfoInputs.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.AssemblyInfo.cs
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.csproj.CoreCompileInputs.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net7.0\NodeFasadeG1.deps.json
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net7.0\NodeFasadeG1.runtimeconfig.json
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net7.0\NodeFasadeG1.gha
+C:\Users\geftg\source\repos\NodeFasadeG1\bin\Debug\net7.0\NodeFasadeG1.pdb
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.gha
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\refint\NodeFasadeG1.gha
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.pdb
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\NodeFasadeG1.genruntimeconfig.cache
+C:\Users\geftg\source\repos\NodeFasadeG1\obj\Debug\net7.0\ref\NodeFasadeG1.gha
